@@ -38,4 +38,4 @@ The second citation style has all the reference information appear inside the br
 
 \pagebreak 
 
-## Bibliography
+## Bibliography \newline
