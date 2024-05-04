@@ -32,7 +32,7 @@ A sentence that needs a note.[^1]
 
 This is a second sentence that requires an inline citation where the author's names, in this case @fyfe_digital_2011, are a part of the sentence.
 
-The second citation style has all the reference information appear inside the brackets [@fyfe_digital_2011].
+The second citation style has all the reference information appear inside the brackets [@fyfe_digital_2011]. If you want to add a page reference for the citation add it after the citekey [@fyfe_digital_2011 page 243-246].
 
 [^1]: my first footnote! And a [link](https://www.eff.org/). 
 
